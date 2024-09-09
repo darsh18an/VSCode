@@ -1,0 +1,116 @@
+body {
+    background-color: #0e0e0e;
+}
+
+
+
+
+
+.logo{
+    width: 23px; 
+    padding-right: 5px;
+}
+
+.navbarLink {
+    color: #9ba3b4;
+    cursor: pointer;
+    padding-left: 20px;
+}
+.navLinks{
+    font-size: 20px;
+     letter-spacing: -0.2px; 
+     font-weight: 30px;
+}
+
+.navbar-items {
+    display: flex;
+    align-items: center;
+}
+.search{
+    color: #fff; 
+    padding: 8px 16px; 
+    border-radius: 4px;
+    background-color: #0e0e0e;
+}
+
+
+.download-button {
+    border-radius: 4px;
+    padding: 8px 16px;
+    background-color: #0078d4;
+    color: White;
+    border-style: none;
+    margin-left: 3px;
+    font-size: medium;
+}
+
+.button {
+    border-radius: 4px;
+    padding: 12px 20px;
+    background-color: #0078d4;
+    color: white;
+    font-size: 20px;
+    font-style: bold;
+    font-weight: 200px;
+    border-style: none;
+}
+
+a {
+    color: #4daafc;
+}
+.nav{
+  /* color: White; */
+  padding-left: 150px; 
+  padding-right: 150px;
+  padding-top: 5px; 
+  display: flex;
+  justify-content: space-between;
+}
+
+.header{
+  color: #9ba3b4;
+   display:flex; 
+   justify-content: center; 
+   padding-bottom: 20px;
+}
+
+.container{
+   display: flex; 
+   justify-content: space-around;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.cont-header{
+  color: White; 
+  display: flex; 
+  flex-direction: column; 
+  justify-content: center;
+}
+
+.left-header{
+  border-radius: 24px;
+  border: 1px solid #ffffff12;
+   display:flex; 
+   justify-content:center; 
+   width: max-content; 
+   background-color: #ffffff12; 
+   padding: 0px 8px;
+}
+
+input{
+  background-color: #0e0e0e; 
+  color: #fff;
+  border: none;
+  outline: none;
+  
+}
+.custom-input{
+border: 1px solid  #9ba3b4;
+border-radius: 0.5px;
+ border: 1px solid #9ba3b4;
+    padding: 10px; 
+    border-radius: 4px; 
+   
+    color: #333;
+}
